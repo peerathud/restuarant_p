@@ -1,0 +1,17 @@
+.carousel-item {
+    height: 600px;
+     width:900px;
+  }
+  #carouselExample{
+    height: 500px;
+     width:900px;
+     margin:0 auto;
+  }
+ .carousel-item img {
+    max-height: 100%; /* ทำให้ภาพขนาดไม่เกินความสูงของ carousel */
+    width: auto; /* ทำให้ความกว้างของภาพปรับตามสัดส่วน */
+    object-fit: cover; /* ปรับภาพให้ครอบคลุมพื้นที่ */
+  }
+  body{
+    background-color: orange;
+  }

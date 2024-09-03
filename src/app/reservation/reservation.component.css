@@ -1,6 +1,7 @@
 .row{
-    background-color: black;
+    background:linear-gradient(cyan,tomato);
 }
-.col-1{
-    background-color:tomato;
+.roww{
+    display: flex;
+    gap:5px;
 }
