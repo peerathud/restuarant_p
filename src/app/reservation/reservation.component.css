@@ -1,5 +1,5 @@
 .row{
-    background:linear-gradient(cyan,tomato);
+    background:linear-gradient(#FBCD98,#C9592E);
 }
 .roww{
     display: flex;

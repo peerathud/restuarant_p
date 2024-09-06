@@ -2,3 +2,13 @@
     width: 286px;
     height: 300px;
 }
+.card {
+    display: inline-block;
+    border: 2px solid transparent; 
+    transition: border 0.3s ease; 
+  }
+  
+  .card:hover {
+    border-color: black; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
